@@ -2501,7 +2501,7 @@
 	"core.genrltxt.706" : "%s nie mają wystarczającej mocy, aby wskrzesić %s",
 	"core.genrltxt.707" : "{Brak miejsca na dysku}\n\nGra Heroes III wymaga do poprawnej pracy co najmniej 5 MB wolnego miejsca na dysku.\n\nZwolnij miejsce na dysku i spróbuj uruchomić grę ponownie.",
 	"core.genrltxt.708" : "{Brak wolnego miejsca na dysku}\n\nAby zapisać grę Heroes III wymaga przynajmniej 1 MB wolnego miejsca na dysku twardym.\n\nAby skasować wybrany zapis gry, wciśnij CTRL-DELETE.\n\nWciśnij ALT-TAB, aby przejść do Windows.",
-	"core.genrltxt.709" : "Zostaw stażników",
+	"core.genrltxt.709" : "Zostaw strażników",
 	"core.genrltxt.71" : "Premia początkowa:",
 	"core.genrltxt.710" : "%s zamiera ze strachu.",
 	"core.genrltxt.711" : "%s zamierają ze strachu.",
